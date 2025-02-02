@@ -3,7 +3,7 @@ import javax.servlet.http.*;
 import java.io.*;
 import java.util.*;
 
-public class TestingServlet extends HttpServlet {
+public class TestingServlet extends HttpServletttttttttttttttttttttttttttt {
 
  public void doGet(HttpServletRequest request, 
   HttpServletResponse response) 
